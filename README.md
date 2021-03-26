@@ -5,12 +5,15 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on ... my portfolio
 - 🌱 I’m currently learning ... webpack 
 - 👯 I’m looking to collaborate on ... anything!
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... something I've learnt recently
 - 📫 How to reach me: ... iancarloluchini@gmail.com
+<!--
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
